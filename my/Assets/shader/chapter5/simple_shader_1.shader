@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "chapter_5_simple_shader_1"
+Shader "chapter_5/simple_shader_1"
 {
 	SubShader 
 	{

@@ -2,7 +2,7 @@
 
 // Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 
-Shader "chapter_6_diffuse_pixed_level"
+Shader "chapter_6/diffuse_pixed_level"
 {
 	Properties
 	{

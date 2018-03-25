@@ -2,7 +2,7 @@
 
 // Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 
-Shader "chapter_6_half_lambert"
+Shader "chapter_6/half_lambert"
 {
 	Properties
 	{

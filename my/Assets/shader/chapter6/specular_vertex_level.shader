@@ -1,6 +1,6 @@
 ﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "chapter_6_specular_vertex_level"
+Shader "chapter_6/specular_vertex_level"
 {
 	Properties
 	{

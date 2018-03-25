@@ -1,4 +1,4 @@
-﻿Shader "chapter_6_specular_pixel_level"
+﻿Shader "chapter_6/specular_pixel_level"
 {
     Properties
     {
